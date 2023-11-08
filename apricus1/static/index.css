@@ -1,5 +1,4 @@
-
 .header{
     height: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("/static/Mt_Kilimanjaro.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("Mt_Kilimanjaro.jpeg");
 }
